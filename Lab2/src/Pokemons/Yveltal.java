@@ -9,7 +9,7 @@ public class Yveltal extends Pokemon {
         super(name,level);
         setType(Type.DARK,Type.FLYING);
         setStats(126,131,95,131,98,99);
-        setMove(new Psychic(),new Dark_Pulse(), new Hurricane(), new Rest());
+        setMove(new Psychic(),new Dark_Pulse(), new Hurricane(), new Rest(126));
     }
 
 }

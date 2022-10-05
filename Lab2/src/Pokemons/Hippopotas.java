@@ -9,7 +9,7 @@ public class Hippopotas extends Pokemon {
         super(name,level);
         setType(Type.GROUND);
         setStats(68,72,78,38,42,32);
-            setMove(new Double_Team(), new Bulldoze(), new Confide());
+        setMove(new Double_Team(), new Bulldoze(), new Confide());
     }
 
 }
