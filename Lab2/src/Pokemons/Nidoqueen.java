@@ -1,9 +1,7 @@
 package Pokemons;
 
-import Attacks.PhysicalAttacks.Bite;
-import Attacks.StatusAttacks.Double_Team;
-import Attacks.StatusAttacks.Rest;
-import Attacks.StatusAttacks.Swagger;
+import Attacks.PhysicalAttacks.*;
+import Attacks.StatusAttacks.*;
 import ru.ifmo.se.pokemon.*;
 public class Nidoqueen extends Nidorina {
     public Nidoqueen(String name, int level) {

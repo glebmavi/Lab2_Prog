@@ -1,7 +1,6 @@
 package Pokemons;
 
-import Attacks.StatusAttacks.Rest;
-import Attacks.StatusAttacks.Swagger;
+import Attacks.StatusAttacks.*;
 import ru.ifmo.se.pokemon.*;
 
 public class NidoranF extends Pokemon {

@@ -1,7 +1,6 @@
 package Pokemons;
 
 import Attacks.PhysicalAttacks.*;
-import Attacks.StatusAttacks.*;
 import ru.ifmo.se.pokemon.*;
 
 public class Hippowdon extends Hippopotas {

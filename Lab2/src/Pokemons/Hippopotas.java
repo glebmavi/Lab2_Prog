@@ -1,6 +1,6 @@
 package Pokemons;
 
-import Attacks.PhysicalAttacks.Bulldoze;
+import Attacks.PhysicalAttacks.*;
 import Attacks.StatusAttacks.*;
 import ru.ifmo.se.pokemon.*;
 
